@@ -8,6 +8,9 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+/*
+Como a lógica não está correta para o primeiro par, vou considerar 20% pelo trabalho
+*/
 int main( void )
 {
     int a, b, i;
